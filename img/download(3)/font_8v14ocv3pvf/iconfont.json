@@ -1,0 +1,23 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "938041",
+      "name": "Social-44",
+      "font_class": "social44",
+      "unicode": "e971",
+      "unicode_decimal": 59761
+    },
+    {
+      "icon_id": "11259857",
+      "name": "微信图标",
+      "font_class": "weixintubiao",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    }
+  ]
+}
